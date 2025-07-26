@@ -1,9 +1,3 @@
-/*
- * TFT_program.c
- *
- *  Created on: Aug 29, 2024
- *      Author: ahmed
- */
 
 #include "BIT_MATH.h"
 #include "STD_TYPES.h"
