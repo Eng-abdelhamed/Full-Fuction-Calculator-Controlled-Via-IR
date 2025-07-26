@@ -1,13 +1,3 @@
-/*
- * CALC.c
- *
- *  Created on: Sep 12, 2025
- *      
- */
-
-
-
-
 
 #include"STD_TYPES.h"
 #include "CALC.h"
