@@ -1,10 +1,3 @@
-/*
- * TFT_CALC.c
- *
- *  Created on: Sep 12, 2024
- *      Author: ahmed
- */
-
 
 #include "BIT_MATH.h"
 #include "STD_TYPES.h"
