@@ -1,9 +1,3 @@
-/*
- * MSYSTICK_program.c
- *
- *  Created on: Aug 2, 2024
- *      Author: ahmed
- */
 
 #include "BIT_MATH.h"
 #include "STD_TYPES.h"
