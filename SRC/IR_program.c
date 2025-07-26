@@ -1,9 +1,3 @@
-/*
- * IR_program.c
- *
- *  Created on: Aug 18, 2024
- *      Author: ahmed
- */
 
 #include "BIT_MATH.h"
 #include "STD_TYPES.h"
